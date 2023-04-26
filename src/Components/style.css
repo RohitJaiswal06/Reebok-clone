@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+.header{
+    height: 30px;
+    background-color: #244496;
+    color: white;
+}
+.nav-pos{
+    position:sticky;
+    z-index: 1;
+    top: 0;
+}
+.coupan-code{
+    padding-top: 5px;
+    font-size: 12px;
+}
+
+.nav-links{
+    margin-top: 60px;
+    padding-left: 50px;
+    color: black;
+    font-weight: bold;
+}
+
+.search{
+    margin-top: 45px;
+    margin-right: 200px;
+    background-color: rgba(220, 220, 220,0);
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 20%;
+    outline: none;
+}
+
+.banner{
+    background-size: contain;
+    width: 100%;
+}
+
+.home_header{
+    color: #1c1c1c;
+    font-weight: 900;
+    margin: 28px 50px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 28px;
+    text-align: left;
+    letter-spacing: .2px;
+    word-spacing: 7px;
+}
+
+
+
